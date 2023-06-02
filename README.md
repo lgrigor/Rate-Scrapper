@@ -59,6 +59,7 @@ It adheres to a naming convention denoted as `report_2023_06_01__21_45_00.xlsx` 
 <img src="https://raw.githubusercontent.com/lgrigor/Rate-Scrapper/main/Documentation/readme_report_1.PNG" width="700" height="150">
 
 The report file content: <br>
+If the service page does not offer currency conversion functionality, the corresponding rate field will display a value of 0.<br>
 <br>
 <img src="https://raw.githubusercontent.com/lgrigor/Rate-Scrapper/main/Documentation/readme_report_2.PNG" width="700" height="250">
 
